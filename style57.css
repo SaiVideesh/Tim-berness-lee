@@ -87,6 +87,37 @@ p {
     font-family: fantasy;
     font-size: 20px;
 }
-.link:over{
+.link:hover{
     background-color: dodgerblue;
 }
+
+a{
+    text-decoration: none;
+}
+
+.article:hover{
+   color: fuchsia;
+}
+
+html{
+    scroll-behavior: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
